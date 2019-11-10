@@ -1,4 +1,4 @@
-package com.github.daggerok.microprofile.openliberty.blazemvc;
+package com.github.daggerok.microprofile.openliberty.blademvc;
 
 import com.blade.Blade;
 import com.blade.mvc.handler.RouteHandler;
@@ -9,7 +9,7 @@ import javax.enterprise.context.Initialized;
 import javax.enterprise.event.Observes;
 
 @ApplicationScoped
-public class BlazeApplication {
+public class BladeApplication {
 
     private Blade server;
 

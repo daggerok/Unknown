@@ -1,4 +1,4 @@
-package com.github.daggerok.microprofile.openliberty.blazemvc;
+package com.github.daggerok.microprofile.openliberty.blademvc;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

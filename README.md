@@ -1,4 +1,4 @@
-# OpenLiberty MicroProfile blaze-mvc [![Build Status](https://travis-ci.org/daggerok/openliberty-serve-blaze-mvc.svg?branch=master)](https://travis-ci.org/daggerok/openliberty-serve-blaze-mvc)
+# OpenLiberty MicroProfile blade-mvc [![Build Status](https://travis-ci.org/daggerok/openliberty-serve-blade-mvc.svg?branch=master)](https://travis-ci.org/daggerok/openliberty-serve-blade-mvc)
 
 ```bash
 ./mvnw ; java -jar target/*.jar
@@ -13,9 +13,9 @@ The generation of the executable jar file can be performed by issuing the follow
 
     mvn clean package
 
-This will create an executable jar file **blaze-mvc.jar** within the _target_ maven folder. This can be started by executing the following command
+This will create an executable jar file **blade-mvc.jar** within the _target_ maven folder. This can be started by executing the following command
 
-    java -jar target/blaze-mvc.jar 
+    java -jar target/blade-mvc.jar 
 
 ### Liberty's Dev Mode
 
